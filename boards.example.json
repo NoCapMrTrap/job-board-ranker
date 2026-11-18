@@ -1,0 +1,5 @@
+[
+  {"source": "greenhouse", "token": "anthropic", "company": "Anthropic"},
+  {"source": "lever", "token": "palantir", "company": "Palantir"},
+  {"source": "ashby", "token": "openai", "company": "OpenAI"}
+]
